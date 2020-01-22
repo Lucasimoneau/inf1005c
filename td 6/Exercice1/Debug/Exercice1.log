@@ -1,0 +1,4 @@
+﻿  Exercice1.cpp
+Exercice1.cpp(250): warning : (style) Devrait mettre un espace entre 'while' et la parenthese. [guide 80]  [FRB]
+  Exercice1.vcxproj -> D:\inf1005c\TD6-A18-Fichiers\Debug\Exercice1.exe
+  Checking D:\inf1005c\TD6-A18-Fichiers\Exercice1\Exercice1.vcxproj...

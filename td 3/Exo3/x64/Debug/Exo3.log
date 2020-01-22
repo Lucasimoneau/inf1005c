@@ -1,0 +1,3 @@
+﻿  exo3.cpp
+e:\inf1005c\td 3\exo3\exo3.cpp(23): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Exo3.vcxproj -> E:\inf1005c\td 3\x64\Debug\Exo3.exe
